@@ -1,5 +1,5 @@
 # Git-search-app
-This Project is used to show the life inspiring quotes.
+This project is about showing the user's repository list by searching his or her username.
 
 ## Technology used
 

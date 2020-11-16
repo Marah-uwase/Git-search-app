@@ -13,7 +13,7 @@ This project is about showing the user's repository list by searching his or her
 ## Instructions
 
 * You can clone this repository on your own local machine and make further modifications.
-* `git remote add origin https://github.com/Marah-uwase/Quotes-app.git
+* `git remote add origin https://github.com/Marah-uwase/Git-search-app.git
 ## Licence
 
 * Marah-uwase@2020

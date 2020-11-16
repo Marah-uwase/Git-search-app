@@ -1,1 +1,16 @@
 /* You can add global styles to this file, and also import other style files */
+@import 'bootstrap/dist/css/bootstrap.min.css';
+@import url('https://fonts.googleapis.com/css?family=Shadows+Into+Light&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Gloria+Hallelujah|Love+Ya+Like+A+Sister|Special+Elite&display=swap');
+button, .card{
+    margin-right: 5%;
+}
+/* body{
+    background-image: url('src/assets/download.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat; */
+
+
+body{
+    background-color: pink;
+}

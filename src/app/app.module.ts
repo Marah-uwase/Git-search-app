@@ -11,6 +11,7 @@ import {FormsModule} from '@angular/forms';
 import {HttpClientModule} from '@angular/common/http';
 import { DatepipePipe } from './datepipe.pipe';
 import { HighlightDirective } from './highlight.directive';
+import { NavbarComponent } from './navbar/navbar.component';
 
 
 @NgModule({
@@ -22,6 +23,7 @@ import { HighlightDirective } from './highlight.directive';
     // RepositoryComponent,
     DatepipePipe,
     HighlightDirective,
+    NavbarComponent,
     
     
   ],

@@ -19,6 +19,7 @@ export class UsersRepositoriesComponent implements OnInit {
       console.log(this.myRepo);
     });
   }
+  
 
   ngOnInit() {
     this.getRepo('Marah-uwase');
